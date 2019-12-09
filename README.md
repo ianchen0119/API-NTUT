@@ -94,6 +94,7 @@ https://drive.google.com/drive/u/0/folders/1o8hbHh7M5Q7L3AQS9xsJurGhMhxd6rEz
     ]
     ```
 2. 實作應用：
+![https://ithelp.ithome.com.tw/upload/images/20191209/20110850gGm5Oy6Kl1.png](https://ithelp.ithome.com.tw/upload/images/20191209/20110850gGm5Oy6Kl1.png)
 - login
 
 該API提供登入功能,請使用GET方式做請求,相關傳送參數在此（Params）：
@@ -120,11 +121,20 @@ https://drive.google.com/drive/u/0/folders/1o8hbHh7M5Q7L3AQS9xsJurGhMhxd6rEz
 
 - mycourse
 
-   該API提供登入功能,請使用GET方式做請求,相關傳送參數在此：
+   該API提供查詢我的課程功能,請使用GET方式做請求,相關傳送參數在此：
     
 ![https://ithelp.ithome.com.tw/upload/images/20191209/20110850zKRlE124dD.png](https://ithelp.ithome.com.tw/upload/images/20191209/20110850zKRlE124dD.png)
 
    該API網址：http://localhost:3000/mycourse
+   
+- performance
+
+   該API提供秀出指定課程的個人表現功能,請使用GET方式做請求,相關傳送參數在此：
+    
+![https://ithelp.ithome.com.tw/upload/images/20191209/20110850kI97EnsUce.png](https://ithelp.ithome.com.tw/upload/images/20191209/20110850kI97EnsUce.png)
+
+   該API網址：http://localhost:3000/performance
+
 
 - getcourse
 
@@ -171,6 +181,5 @@ node server_db.js
 ## 聲明
 
 本專案僅提供畢業專題同組員使用
-
 
 
