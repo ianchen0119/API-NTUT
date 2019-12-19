@@ -1,6 +1,6 @@
 # 自動點名系統Restful API
 
-以 Koa、`koa-router`、`koa-body`、`koa-bodyparser` 實作該API。
+以 `Koa`、`koa-router`、`koa-body`、`koa-bodyparser` 實作該API。
 
 ## 下載
 
@@ -174,7 +174,7 @@ node server_db.js
 
 ![https://ithelp.ithome.com.tw/upload/images/20191209/20110850o2ENyvshfb.png](https://ithelp.ithome.com.tw/upload/images/20191209/20110850o2ENyvshfb.png)
 
-3.導入後,我們會發現collection內出現自動點名系統資料夾,而該資料夾內有針對各支API的測試檔。
+3.導入後,我們會發現collection內出現自動點名系統資料夾,而該資料夾內有針對各支API的測試檔可供使用。
 
 ![https://ithelp.ithome.com.tw/upload/images/20191209/201108504j8xdRzrYQ.png](https://ithelp.ithome.com.tw/upload/images/20191209/201108504j8xdRzrYQ.png)
 
